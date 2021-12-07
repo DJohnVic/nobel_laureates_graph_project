@@ -1,0 +1,1 @@
+MATCH (g0:Laureate{Name:" Andrea M. Ghez"}), (g979:Nat{nat:"American"})CREATE (g0)-[R0:is]->(g979)

@@ -1,0 +1,1 @@
+CREATE (d0:Nfor{nfor:"Physiology or Medicine"}), (d1:Nfor{nfor:"Peace"}), (d2:Nfor{nfor:"Physics"}), (d3:Nfor{nfor:"Literature"}), (d4:Nfor{nfor:"Chemistry"}), (d5:Nfor{nfor:"NA"}), (d6:Nfor{nfor:"Economic Sciences"}) RETURN d0, d1, d2, d3, d4, d5, d6

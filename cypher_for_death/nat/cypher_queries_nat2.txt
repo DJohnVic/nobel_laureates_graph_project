@@ -1,0 +1,1 @@
+CREATE (n0:Nat{nat:"Burmese"}), (n1:Nat{nat:"Czechoslovak"}), (n2:Nat{nat:"Peruvian"}), (n3:Nat{nat:"Taiwanese"}),RETURN n0, n1, n2, n3,

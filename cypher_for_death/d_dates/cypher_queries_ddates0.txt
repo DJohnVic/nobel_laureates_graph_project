@@ -1,0 +1,1 @@
+MATCH (d0:Laureate{Name:" Andrea M. Ghez"}), (d979:Date{date:"NA"})CREATE (d0)-[R0:DEAD_ON]->(d979)
